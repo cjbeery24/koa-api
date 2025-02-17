@@ -1,6 +1,6 @@
 node_modules
-.env.prod
-.env.dev
+.env.production
+.env.development
 .env.local
 .env.test
 coverage
